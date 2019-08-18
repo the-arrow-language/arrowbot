@@ -1,0 +1,22 @@
+{
+  "name": "arrowbot",
+  "version": "1.0.0",
+  "description": "Arrow Language support for Discord Bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-arrow-language/arrowbot.git"
+  },
+  "author": "The Arrow Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the-arrow-language/arrowbot/issues"
+  },
+  "homepage": "https://github.com/the-arrow-language/arrowbot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
